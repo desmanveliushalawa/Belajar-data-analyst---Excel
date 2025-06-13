@@ -1,1 +1,1 @@
-Ini adalah beberapa file latihan excel untuk data analyst yang bisa digunkana untuk pemula. 
+Ini adalah beberapa file latihan excel untuk data analyst yang bisa digunkana untuk pemula. Dalam data ini, saya sudah melakukan cleaning data dan sudah melakukan beberapa analisis penting dengan menggunakan pivot tabel. Dan outpuntnya adalah dashboard interaktif yang menarik.
